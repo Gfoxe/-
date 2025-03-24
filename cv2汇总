@@ -1,0 +1,6 @@
+cv.imread()
+cv.imwrite()
+cv.resize()
+cv.createTrackbar()
+np.power()
+cv2.rectangle()
